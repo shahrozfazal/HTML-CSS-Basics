@@ -1,0 +1,53 @@
+
+    p{
+        font-family: arial;
+        margin-top: 0;
+        margin-bottom: 20;
+    }
+    .video-title{
+        font-weight: bold;
+        font-size: 18px;
+        width: 280px;
+        line-height: 20.7px;
+        margin-bottom: 5px;
+    }
+    .video-static{
+        color: rgb(96, 96, 96);
+        font-size: 14px;
+        line-height: 20.7px;
+    }
+    .video-author{
+        color: rgb(96, 96, 96);
+        font-size: 14px;
+        line-height: 20.7px;
+    }
+
+    .video-description{
+        font-size: 14px;
+        color: rgb(96, 96, 96);
+        width: 280px;
+        line-height: 22px;
+         margin-top: 0px;
+    }
+
+    .video-footer{
+        margin-bottom: 50px;
+        font-size: 14px;
+        background-color: rgb(235, 65, 64);
+        color: white;
+         text-align: center;
+        margin-top: 0px;
+        padding-bottom: 18px;
+        padding-top: 18px;
+    }
+
+    .shop-link{
+        color:white;
+        cursor: pointer;
+        font-size: 14px;
+    }
+        .shop-link:hover{
+             text-decoration: underline;
+        }
+
+
